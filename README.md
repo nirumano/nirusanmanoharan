@@ -1,1 +1,13 @@
-# nirusanmanoharan
+<h1>Hi, I'm Nirusan! <br/><a href="https://github.com/nirumano">Programmer</a>, <a href="https://www.linkedin.com/in/nirusanmanoharan/">Product Manager</a>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ... 
+- 🤔 I’m looking for help with ...
+- 📫 How to reach me: nirusan.manoharan@gmail.com
+- ⚡ Fun fact: ...
